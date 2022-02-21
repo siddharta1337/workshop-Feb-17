@@ -1,0 +1,84 @@
+{
+  "commons": {
+    "search": "Search",
+    "update-btn": "Update",
+    "try-again": "Try again in a while",
+    "empty": "There's no data to show",
+    "loading": "Loading"
+  },
+  "config-credit-card": {
+    "card-activation-check": "Activate card",
+    "monthly-statement-check": "Send monthly statement via email",
+    "owner-email": "Email notification",
+    "owner-name": "Cardholder name",
+    "title": "Customize",
+    "usage-notification-check": "Notify every time this card is used"
+  },
+  "credit-card": {
+    "active": "Active",
+    "customize-btn": "Customize",
+    "locked": "Locked"
+  },
+  "credit-card-info": {
+    "international-amount": "Available credit",
+    "international-debt": "Current balance",
+    "national-amount": "Available credit",
+    "national-debt": "Current balance",
+    "pay-debt": "Make a payment",
+    "progress-message": "You have used {0}% of your credit line of {1}",
+    "view-transactions-btn": "View transactions"
+  },
+  "currency": {
+    "format": {
+      "decimal": ".",
+      "formatWithSymbol": true,
+      "precision": 2,
+      "separator": ",",
+      "symbol": "$"
+    },
+    "formatDolar": {
+      "decimal": "",
+      "formatWithSymbol": "",
+      "precision": "",
+      "separator": "",
+      "symbol": ""
+    }
+  },
+  "date": {
+    "format": {
+      "lang": "en",
+      "last-3-months": "Last 3 months",
+      "last-6-months": "Last 6 months",
+      "last-month": "Last month",
+      "long": "MMMM dd, yyyy",
+      "short": "MM/DD/YYYY",
+      "this-month": "This month"
+    }
+  },
+  "statements": {
+    "title": "Account statements"
+  },
+  "transaction-item": {
+    "category": "Category",
+    "details": "Transaction details",
+    "installment-pyment": "Installment payment",
+    "product": "Product",
+    "reference-number": "Reference Nº",
+    "refund": "Refund",
+    "total-purchase": "Total purchase"
+  },
+  "transactions": {
+    "title": "Transactions",
+    "view-transactions": "View transactions"
+  },
+  "transactions-list": {
+    "empty": "No registered transactions",
+    "international": "International",
+    "last-3-months": "Last 3 months",
+    "last-6-months": "Last 6 months",
+    "last-month": "Last month",
+    "national": "National",
+    "select-period": "Select period",
+    "this-month": "This month"
+  }
+}

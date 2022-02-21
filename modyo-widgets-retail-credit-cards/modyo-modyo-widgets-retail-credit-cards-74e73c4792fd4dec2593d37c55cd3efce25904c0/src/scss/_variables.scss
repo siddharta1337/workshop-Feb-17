@@ -1,34 +1,33 @@
 // BOOTSTRAP VARIABLES
- 
+
 // Color system
 
 $primary-10: #ebedef;
-$primary-20: #E8EAF1;
-$primary-40: #D2D6E5;
-$primary-60: #A5AECC;
-$primary-80: #02207c; // itau header
-$primary-100: #f67100;//itau botones
+$primary-20: #d6dbdf;
+$primary-40: #aeb6bf;
+$primary-60: #85929e;
+$primary-80: #5d6d7e;
+$primary-100: #34495e;
 $primary-dark: #2e4553;
 $secondary-10: #eff0f1;
 $secondary-20: #e0e2e3;
 $secondary-40: #c1c5c7;
 $secondary-60: #a1a8aa;
 $secondary-80: #828b8e;
-$secondary-100: #02207c; //itau
+$secondary-100: #636e72;
 $secondary-dark: #515a5e;
 $tertiary-10: #f7f8f9;
 $tertiary-20: #f0f2f3;
 $tertiary-40: #e0e5e7;
 $tertiary-60: #d1d8db;
 $tertiary-80: #c1cbcf;
-$tertiary-100: #ffffff; // itau texto header
+$tertiary-100: #b2bec3;
 $tertiary-dark: #a3afb4;
-$red: #D7426E;
-$yellow: #F2C10D;
-$green: #70D960;
+$red: #df0000;
+$yellow: #ffc24a;
+$green: #53c737;
 $primary: $primary-100;
 $secondary: $secondary-100;
-$tertiary: $tertiary-100;
 $light: $secondary-10;
 $dark: $secondary-dark;
 
@@ -103,4 +102,3 @@ $modal-fade-transform:              translate(0, 100%);
 $modal-show-transform:              none;
 $modal-transition:                  transform 150ms ease-out;
 $modal-scale-transform:             scale(1.02);
-
